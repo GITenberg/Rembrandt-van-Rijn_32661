@@ -1,0 +1,35 @@
+_repo: Rembrandt-van-Rijn_32661
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Rembrandt Harmenszoon van Rijn
+    aliases:
+    - Van Rijn, Rembrandt Harmenszoon
+    - Rijn, Rembrandt Harmenszoon van
+    birthdate: 1606
+    deathdate: 1669
+    gutenberg_agent_id: '7232'
+    url: http://www.gutenberg.org/2009/agents/7232
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bell, Malcolm
+    gutenberg_agent_id: '35973'
+    url: http://www.gutenberg.org/2009/agents/35973
+description: ''
+gutenberg_issued: '2010-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32661'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Great Masters in Painting and Sculpture
+subjects:
+- !lcsh 'Rembrandt Harmenszoon van Rijn, 1606-1669'
+- !lcc 'ND'
+title: Rembrandt van Rijn
+url: http://www.gutenberg.org/ebooks/32661
